@@ -16,6 +16,7 @@ namespace GitHubKurs.Data
 					new CoffeeShop("FT",20),
 					new CoffeeShop("Frankfurt",54),
 					new CoffeeShop("Mannheim",47),
+				    new CoffeeShop("Pistoia",115)
 				};
 		}
 	}
