@@ -20,7 +20,10 @@ while (true)
 		foreach (GitHubKurs.Model.CoffeeShop shop in coffeeShops)
 		{
 			Console.WriteLine(shop);
-
 		}
+	}
+	else
+	{
+		Console.WriteLine($"invalid command: {command}");
 	}
 }
