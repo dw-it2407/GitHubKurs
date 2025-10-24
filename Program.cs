@@ -7,6 +7,11 @@ while (true)
 {
 	string? command = Console.ReadLine();
 	if (command.Equals("quit"))
-		{ break; }
-
+	{
+		break;
+	}
+	else
+	{
+		Console.WriteLine($"invalid command: {command}");
+	}
 }
