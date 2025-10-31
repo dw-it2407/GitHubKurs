@@ -3,8 +3,8 @@ using GitHubKurs.Data;
 
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Commands:");
-Console.WriteLine("  quit ---> exits the application");
-Console.WriteLine("   shops --->show coffee shops   ");
+Console.WriteLine("  quit --->    exits the application");
+Console.WriteLine("   shops --->   show coffee shops   ");
 
 while (true)
 {
