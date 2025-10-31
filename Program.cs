@@ -24,6 +24,7 @@ while (true)
 	}
 	else
 	{
+		Console.WriteLine("added for pull reqeust");
 		Console.WriteLine($"invalid command: {command}");
 	}
 }
